@@ -16,7 +16,8 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 ![USB Hub Photo 1](https://github.com/user-attachments/assets/be008a3c-06b1-4dd5-bec4-060d764c514c)
 
-![USB Hub Photo 2](https://github.com/user-attachments/assets/785d7dac-ec02-479c-be64-23b426f7e772)
+<img width="1587" height="2245" alt="Blue And Black Modern Gradient Technology Poster (1)" src="https://github.com/user-attachments/assets/708d24f5-7871-4f3a-9750-e932f4f9269c" />
+
 
 [![Screenshot 1](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.49.49.png)](https://example.com)
 [![Screenshot 2](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.49.55.png)](https://example.com)
