@@ -14,9 +14,13 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 ## Project Images
 
-![USB Hub Photo 1](https://github.com/user-attachments/assets/be008a3c-06b1-4dd5-bec4-060d764c514c)
+![USB Hub Photo 1](https://github.com/user-attachments/assets/42c2df0b-8c11-446b-9496-d2db34efccb4)
+![USB Hub Photo 1](https://github.com/user-attachments/assets/9add08d4-e24f-468a-8bef-c4ac3cd752c4)
+![USB Hub Photo 1](https://github.com/user-attachments/assets/54588be4-992e-43e1-b737-f6ed21ac811b)
 
-<img width="1587" height="2245" alt="Blue And Black Modern Gradient Technology Poster (1)" src="https://github.com/user-attachments/assets/708d24f5-7871-4f3a-9750-e932f4f9269c" />
+
+<img width="1587" height="2245" alt="Zine" src="https://github.com/user-attachments/assets/3a37664b-471c-4253-85d3-1babc2d7fab4" />
+
 
 
 [![Screenshot 1](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.49.49.png)](https://example.com)
@@ -31,6 +35,6 @@ I created this project to understand how USB hubs work at a deeper level and to 
 2. Plug your USB devices into the available ports.
 3. Use your devices as usual; the hub distributes connectivity, allowing multiple devices to function simultaneously.
 
-## Project Completeness
+## Motivation and projetc completeness
 
 This project includes a full design with all components, a clear structure for assembly, and a working concept. The design is inspired by the starter guide from Stasis by Hack Club and aims to be reproducible by others using the provided files and instructions.
