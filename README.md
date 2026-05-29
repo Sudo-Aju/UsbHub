@@ -29,6 +29,17 @@ I created this project to understand how USB hubs work at a deeper level and to 
 ![Screenshot 3](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.50.13.png)
 ![Screenshot 4](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.50.21.png)
 
+## BOM
+
+|No.|Quantity|Comment              |Designator              |Footprint                       |Value|Manufacturer Part    |Manufacturer   |Supplier Part|Supplier|Link                                                  |
+|---|--------|---------------------|------------------------|--------------------------------|-----|---------------------|---------------|-------------|--------|------------------------------------------------------|
+|1  |8       |1uF                  |C1,C2,C3,C4,C5,C8,C9,C13|C0603                           |1uF  |                     |               |             |        |https://www.lcsc.com/search?q=1uF%200603%20capacitor  |
+|2  |3       |100nF                |C10,C11,C12             |C0603                           |100nF|                     |               |             |        |https://www.lcsc.com/search?q=100nF%200603%20capacitor|
+|3  |6       |5.1K                 |R1,R2,R3,R4,R5,R6       |R0603                           |5.1K |                     |               |             |        |https://www.lcsc.com/search?q=5.1k%200603%20resistor  |
+|4  |1       |SL2.1s               |U1                      |SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL|     |SL2.1s               |CoreChips(和芯润德)|C2684433     |LCSC    |https://www.lcsc.com/product-detail/C2684433.html     |
+|5  |3       |TYPE-C 16PIN 2MD(073)|USB1,USB4,USB5          |USB-C-SMD_TYPE-C-6PIN-2MD-073   |     |TYPE-C 16PIN 2MD(073)|SHOU HAN(首韩)   |C2765186     |LCSC    |https://www.lcsc.com/product-detail/C2765186.html     |
+|6  |2       |10.0 QHHTZB6.3       |USB2,USB3               |USB-A-TH_10.0QHHTZB6.3          |     |10.0 QHHTZB6.3       |SHOU HAN(首韩)   |C668591      |LCSC    |https://www.lcsc.com/product-detail/C668591.html      |
+
 ## How to use
 
 1. Connect the USB hub to your computer using the main input cable.
