@@ -23,7 +23,8 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 
 
-<img width="1953" height="1572" alt="Screenshot 2026-05-31 at 10 50 50" src="https://github.com/user-attachments/assets/907924a3-26ec-4f8a-a3e4-b6f64c95aab3" />
+<img width="1945" height="1600" alt="Screenshot 2026-05-31 at 11 14 23" src="https://github.com/user-attachments/assets/eaff6945-a8ec-4855-845f-05174fbdd4b7" />
+
 <img width="2436" height="1720" alt="Screenshot 2026-05-31 at 10 50 26" src="https://github.com/user-attachments/assets/69275e06-3abe-4b69-83f9-44bf7446e15f" />
 
 
