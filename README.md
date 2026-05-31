@@ -23,11 +23,9 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 
 
-[![Screenshot 1](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.49.49.png)](https://example.com)
-[![Screenshot 2](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.49.55.png)](https://example.com)
+<img width="1953" height="1572" alt="Screenshot 2026-05-31 at 10 50 50" src="https://github.com/user-attachments/assets/907924a3-26ec-4f8a-a3e4-b6f64c95aab3" />
+<img width="2436" height="1720" alt="Screenshot 2026-05-31 at 10 50 26" src="https://github.com/user-attachments/assets/69275e06-3abe-4b69-83f9-44bf7446e15f" />
 
-![Screenshot 3](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.50.13.png)
-![Screenshot 4](https://github.com/Sudo-Aju/BYH_USBHUB/blob/main/img/Screenshot%202026-04-02%20at%2011.50.21.png)
 
 ## BOM
 
