@@ -1,3 +1,4 @@
+
 # USB Hub Project
 
 ## What is this project?
@@ -23,7 +24,7 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 
 
-<img width="1945" height="1600" alt="Screenshot 2026-05-31 at 11 14 23" src="https://github.com/user-attachments/assets/eaff6945-a8ec-4855-845f-05174fbdd4b7" />
+<img width="1968" height="1613" alt="Screenshot 2026-06-01 at 12 24 28" src="https://github.com/user-attachments/assets/fbff16f3-9332-4069-90a8-eeb76eb7be79" />
 
 <img width="2436" height="1720" alt="Screenshot 2026-05-31 at 10 50 26" src="https://github.com/user-attachments/assets/69275e06-3abe-4b69-83f9-44bf7446e15f" />
 
