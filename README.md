@@ -15,12 +15,13 @@ I created this project to understand how USB hubs work at a deeper level and to 
 
 ## Project Images
 
-![USB Hub Photo 1](https://github.com/user-attachments/assets/42c2df0b-8c11-446b-9496-d2db34efccb4)
+
+![USB Hub Photo 1](https://github.com/user-attachments/assets/98bfa959-2a49-4520-9d16-db6c9485f56c)
 ![USB Hub Photo 1](https://github.com/user-attachments/assets/9add08d4-e24f-468a-8bef-c4ac3cd752c4)
 ![USB Hub Photo 1](https://github.com/user-attachments/assets/54588be4-992e-43e1-b737-f6ed21ac811b)
 
 
-<img width="1587" height="2245" alt="Zine" src="https://github.com/user-attachments/assets/3a37664b-471c-4253-85d3-1babc2d7fab4" />
+<img width="1587" height="2245" alt="Zin1" src="https://github.com/user-attachments/assets/cccb0596-d946-43d7-b901-79098fc07dee" />
 
 
 
