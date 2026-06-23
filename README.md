@@ -1,52 +1,145 @@
+<div align="center">
 
-# USB Hub Project
+# USB Hub
 
-## What is this project?
+### A custom USB hub designed from scratch using a custom PCB, USB-C connectivity, and a 3D-printed enclosure.
 
-This is a custom-designed USB hub built from scratch, combining hardware design, wiring, and assembly into a single functional device. The goal of this project is to create a clean, compact, and reliable USB hub that can connect multiple devices efficiently.
+<img src="https://github.com/user-attachments/assets/98bfa959-2a49-4520-9d16-db6c9485f56c" width="650">
 
-## What does it do?
+<br>
 
-This USB hub allows multiple USB devices to connect to a single port. It is designed to be practical, easy to use, and structurally solid with proper component placement and assembly.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![PCB](https://img.shields.io/badge/PCB-Custom-blue?style=for-the-badge)
+![USB](https://img.shields.io/badge/USB-USB--C-green?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge)
 
-## Why did I make this project?
+</div>
 
-I created this project to understand how USB hubs work at a deeper level and to challenge myself to build a complete hardware product from scratch. Instead of using a ready-made solution, I wanted to design something original that solves the everyday problem of limited USB ports while also improving my skills in electronics, CAD design, and system assembly.
+---
 
-## Project Images
+# Overview
 
+This project is a **fully custom USB hub** built from the ground up, combining PCB design, electronics, CAD modeling, and assembly into a compact desktop accessory.
 
-![USB Hub Photo 1](https://github.com/user-attachments/assets/98bfa959-2a49-4520-9d16-db6c9485f56c)
-![USB Hub Photo 1](https://github.com/user-attachments/assets/9add08d4-e24f-468a-8bef-c4ac3cd752c4)
-![USB Hub Photo 1](https://github.com/user-attachments/assets/54588be4-992e-43e1-b737-f6ed21ac811b)
+Instead of relying on an off-the-shelf hub, every aspect—from the schematic and PCB layout to the enclosure—was designed to better understand USB hardware while creating a practical device for everyday use.
 
+---
 
-<img width="1587" height="2245" alt="Zin1" src="https://github.com/user-attachments/assets/cccb0596-d946-43d7-b901-79098fc07dee" />
+# Features
 
+* Custom PCB
+* USB-C input
+* Multiple USB output ports
+* Compact desktop form factor
+* 3D-printed enclosure
+* Clean internal wiring
+* Designed for easy assembly
+* Fully reproducible using the provided design files
 
+---
 
-<img width="1968" height="1613" alt="Screenshot 2026-06-01 at 12 24 28" src="https://github.com/user-attachments/assets/fbff16f3-9332-4069-90a8-eeb76eb7be79" />
+# Hardware
 
-<img width="2436" height="1720" alt="Screenshot 2026-05-31 at 10 50 26" src="https://github.com/user-attachments/assets/69275e06-3abe-4b69-83f9-44bf7446e15f" />
+| Component          | Specification    |
+| ------------------ | ---------------- |
+| USB Hub IC         | CoreChips SL2.1S |
+| Input              | USB-C            |
+| Outputs            | USB-C + USB-A    |
+| PCB                | Custom FR4 PCB   |
+| Enclosure          | 3D Printed       |
+| Passive Components | 0603 SMD         |
 
+---
 
-## BOM
+# Project Images
 
-|No.|Quantity|Comment              |Designator              |Footprint                       |Value|Manufacturer Part    |Manufacturer   |Supplier Part|Supplier|Link                                                  |
-|---|--------|---------------------|------------------------|--------------------------------|-----|---------------------|---------------|-------------|--------|------------------------------------------------------|
-|1  |8       |1uF                  |C1,C2,C3,C4,C5,C8,C9,C13|C0603                           |1uF  |                     |               |             |        |https://www.lcsc.com/search?q=1uF%200603%20capacitor  |
-|2  |3       |100nF                |C10,C11,C12             |C0603                           |100nF|                     |               |             |        |https://www.lcsc.com/search?q=100nF%200603%20capacitor|
-|3  |6       |5.1K                 |R1,R2,R3,R4,R5,R6       |R0603                           |5.1K |                     |               |             |        |https://www.lcsc.com/search?q=5.1k%200603%20resistor  |
-|4  |1       |SL2.1s               |U1                      |SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL|     |SL2.1s               |CoreChips(和芯润德)|C2684433     |LCSC    |https://www.lcsc.com/product-detail/C2684433.html     |
-|5  |3       |TYPE-C 16PIN 2MD(073)|USB1,USB4,USB5          |USB-C-SMD_TYPE-C-6PIN-2MD-073   |     |TYPE-C 16PIN 2MD(073)|SHOU HAN(首韩)   |C2765186     |LCSC    |https://www.lcsc.com/product-detail/C2765186.html     |
-|6  |2       |10.0 QHHTZB6.3       |USB2,USB3               |USB-A-TH_10.0QHHTZB6.3          |     |10.0 QHHTZB6.3       |SHOU HAN(首韩)   |C668591      |LCSC    |https://www.lcsc.com/product-detail/C668591.html      |
+<p align="center">
 
-## How to use
+<img src="https://github.com/user-attachments/assets/98bfa959-2a49-4520-9d16-db6c9485f56c" width="45%">
+<img src="https://github.com/user-attachments/assets/9add08d4-e24f-468a-8bef-c4ac3cd752c4" width="45%">
 
-1. Connect the USB hub to your computer using the main input cable.
-2. Plug your USB devices into the available ports.
-3. Use your devices as usual; the hub distributes connectivity, allowing multiple devices to function simultaneously.
+<img src="https://github.com/user-attachments/assets/54588be4-992e-43e1-b737-f6ed21ac811b" width="45%">
 
-## Motivation and projetc completeness
+</p>
 
-This project includes a full design with all components, a clear structure for assembly, and a working concept. The design is inspired by the starter guide from Stasis by Hack Club and aims to be reproducible by others using the provided files and instructions.
+---
+
+# Zine Page
+
+This project was also documented as part of a Hack Club **Zine**, summarizing the design process, hardware decisions, PCB layout, and final build in a single-page publication.
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/cccb0596-d946-43d7-b901-79098fc07dee" width="650">
+
+</p>
+
+---
+
+# PCB Design
+
+### PCB Layout
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/fbff16f3-9332-4069-90a8-eeb76eb7be79" width="90%">
+
+</p>
+
+### 3D PCB Render
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/69275e06-3abe-4b69-83f9-44bf7446e15f" width="90%">
+
+</p>
+
+---
+
+# Bill of Materials
+
+| Part                   | Qty | Description         |
+| ---------------------- | --: | ------------------- |
+| 1µF Capacitor (0603)   |   8 | Power filtering     |
+| 100nF Capacitor (0603) |   3 | Decoupling          |
+| 5.1kΩ Resistor (0603)  |   6 | USB-C Configuration |
+| CoreChips SL2.1S       |   1 | USB Hub Controller  |
+| USB-C Connector        |   3 | Input/Output Ports  |
+| USB-A Connector        |   2 | Output Ports        |
+
+---
+
+# How It Works
+
+1. Connect the hub to your computer using the USB-C input.
+2. Plug peripherals into any available USB port.
+3. The SL2.1S hub controller manages communication between the host and connected devices, allowing multiple USB devices to operate simultaneously.
+
+---
+
+# Why I Built It
+
+I wanted to understand how USB hubs work beyond simply using one. Designing the PCB, selecting components, routing high-speed USB traces, and creating a custom enclosure challenged me to build a complete hardware product from scratch.
+
+This project strengthened my understanding of:
+
+* PCB design
+* USB communication
+* Electronics assembly
+* CAD modeling
+* Hardware prototyping
+* Product design workflow
+
+---
+
+# Acknowledgements
+
+This project was inspired by the **Stasis** starter guide from **Hack Club**, while all hardware design, PCB layout, enclosure design, and assembly were completed as part of this custom implementation.
+
+---
+
+<div align="center">
+
+### Designed, assembled, and documented from scratch.
+
+</div>
